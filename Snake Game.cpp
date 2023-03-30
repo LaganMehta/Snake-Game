@@ -1,6 +1,6 @@
 #include < iostream >
 #include < conio.h >
-
+//This is the program where the snake eats the apples.
 using namespace std;
 
 bool gameover;
