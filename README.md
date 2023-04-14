@@ -1,2 +1,3 @@
 ﻿# Snake-Game
- #simple snake game using C++
+ #simple snake game 
+#C++ fundementals were used while building the game 
