@@ -2,7 +2,7 @@
 #include < conio.h >
 //This is the program where the snake eats the apples.
 using namespace std;
-
+// Boolean values to show game start or over
 bool gameover;
 
 const int width = 20;
